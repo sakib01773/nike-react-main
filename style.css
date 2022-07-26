@@ -1,0 +1,14 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 7vh;
+    font-weight: 700;
+}
+.title-different{
+    color: #FF7C52;
+}
+.background{
+    background-color: #FFF9F5 !important;
+}
